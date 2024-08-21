@@ -6,3 +6,4 @@ Tecnologias usadas:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 <hr>
 Este es un proyecto que nos permite encriptar y descencriptar un texto con una interfaz intuitiva y responsiva.
+
